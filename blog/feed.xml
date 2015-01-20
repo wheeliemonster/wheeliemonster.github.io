@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Equilibria Blog</title>
-    <description>Equilibria Equine Sports Massage - Claire Lane - Equine Body Worker
+    <description>Equilibria Equine Sports Massage
 </description>
-    <link>http://www.equilibria.org//blog/</link>
-    <atom:link href="http://www.equilibria.org//blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Jan 2015 22:15:55 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Jan 2015 22:15:55 +0000</lastBuildDate>
+    <link>http://www.equilibria.org.uk//blog/</link>
+    <atom:link href="http://www.equilibria.org.uk//blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Jan 2015 22:35:34 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2015 22:35:34 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,8 +21,8 @@
 &lt;p&gt;See you guys later…&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Jan 2015 21:46:00 +0000</pubDate>
-        <link>http://www.equilibria.org//blog/first/post/2015/01/20/First-Post.html</link>
-        <guid isPermaLink="true">http://www.equilibria.org//blog/first/post/2015/01/20/First-Post.html</guid>
+        <link>http://www.equilibria.org.uk//blog/first/post/2015/01/20/First-Post.html</link>
+        <guid isPermaLink="true">http://www.equilibria.org.uk//blog/first/post/2015/01/20/First-Post.html</guid>
         
         
         <category>first</category>
@@ -49,8 +49,8 @@
 
 </description>
         <pubDate>Tue, 20 Jan 2015 21:16:47 +0000</pubDate>
-        <link>http://www.equilibria.org//blog/jekyll/update/2015/01/20/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://www.equilibria.org//blog/jekyll/update/2015/01/20/welcome-to-jekyll.html</guid>
+        <link>http://www.equilibria.org.uk//blog/jekyll/update/2015/01/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.equilibria.org.uk//blog/jekyll/update/2015/01/20/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
