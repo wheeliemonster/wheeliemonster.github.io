@@ -1,0 +1,13 @@
+# Site settings
+title: Equilibria Blog
+email: info@equilibria.org.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Equilibria Equine Sports Massage - Claire Lane - Equine Body Worker
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://www.equilibria.org/" # the base hostname & protocol for your site
+twitter_username: equilibria
+github_username:  wheeliemonster
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
